@@ -27,6 +27,7 @@
 | Project | Domain & Systems Highlights | Stack | License |
 | :--- | :--- | :--- | :--- |
 | **[`Build Law`](https://github.com/Tianxia-Core/Build-Law)** | Constitutional 4-Pillar, 14-Gate AI Engineering Verifier, `5.0×–8.8×` Token-Efficiency Framework & 18-Tool Skill/VSIX/MCP Suite | `Go` · `JS` · `Nix` · `Prompt/AST` | **`MIT`** |
+| **[`FC-Estimator`](https://github.com/Tianxia-Core/FC-Estimator)** | Calibrated Function-Count Algebraic Software Build Sizer (`95.0%` Accuracy), `<=8`-FFP Decomposer, `8.8×` EUR Token Calculator & MCP Server | `Go` · `HTML/JS` · `Skill/MCP` | **`MIT`** |
 | **[`TianxiaOS`](https://github.com/Tianxia-Core/TianxiaOS)** | Declarative NixOS substrate, `< 0.18ms` C AVX2 `MANAS` System-1 safety kernel, Wayland layer-shell HUD & 28 polyglot web apps | `Nix` · `Rust` · `C (AVX2)` · `OCaml` · `TS` | `BUSL-1.1` |
 | **[`Jivascriptocle`](https://github.com/Tianxia-Core/Jivascriptocle)** | Deterministic 5-target `.jiva` polyglot AST transpiler (`Rust`/`Zig`/`OCaml`/`TS`/`Nix`), Artificial Kenning IR & `ARSI` proof engine | `Rust` · `OCaml` · `Zig` · `C++` · `Nix` | **`Apache-2.0`** |
 | **[`AegisScan`](https://github.com/Tianxia-Core/AegisScan)** | Zero-dependency 8-domain DevSecOps, supply-chain & AI prompt-injection security posture scanner (`aegis-scan`) | `Go` · `Python` · `Nix` | **`MIT`** |
